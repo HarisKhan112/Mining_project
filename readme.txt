@@ -1,1 +1,4 @@
-JUST RUN THE FLASK APP.PY its not really flask but streamlit simply running the dile is enough
+JUST RUN THE FLASK APP.PY 
+open code in visual studio code
+open folder in which all the stuff is
+then do streamlit run flaskapp.py
