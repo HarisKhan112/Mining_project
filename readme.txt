@@ -1,0 +1,1 @@
+JUST RUN THE FLASK APP.PY its not really flask but streamlit simply running the dile is enough
